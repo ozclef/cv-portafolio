@@ -151,33 +151,32 @@ Formación práctica en:
 
 ---
 
-# Algo importante Oscar ⚠️
+# Algo importante ⚠️
 
-**No intentes competir con ingenieros AAA.**
-
-Tu ventaja es otra:
+**intentes competir con ingenieros AAA.**
 
 * autodidacta
 * sistemas funcionales
 * prototipos reales
 * mentalidad de constructor
 
-Eso **sí vale en startups**.
+**sí vale en startups**.
 
 ---
 
 # Puestos donde SÍ podrías intentar aplicar
 
-De la lista que mostraste, los más realistas serían:
+ 
+ los más realistas serían:
 
 1️⃣ **Game Product Manager**
-(si demuestras proyectos)
+
 
 2️⃣ **Associate Game Director**
-(solo si explicas liderazgo de proyectos)
+
 
 3️⃣ **Director Publishing & Marketing**
-(si tu portfolio muestra comunidad o difusión
+
 
 ⚠️ **Senior Gameplay Programmer** normalmente pide:**
 
