@@ -211,9 +211,7 @@ Oscar, si quieres, puedo también:
 * escribir tu **carta para Mob Entertainment**
 * decirte **exactamente a qué puestos aplicar**
 * armarte un **portfolio que sí impresione a estudios**
-
-Te lo digo en serio:
-**tu perfil sí se puede convertir en algo fuerte**, pero hay que **ordenarlo correctamente**.
+ algo fuerte**, pero hay que **ordenarlo correctamente**.
 
 ---
 
