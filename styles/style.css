@@ -8,7 +8,7 @@
     .perfil {      background: var(--card);      border-radius: 12px;      overflow: hidden;    }
     .portada {
       height: 180px;
-      background: url('https://avatars.githubusercontent.com/u/227050307?v=4') center/cover;
+      background: url('https://private-user-images.githubusercontent.com/212662790/568318490-ff03fea7-7901-46d1-8499-680ec9fc8865.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQzNTE2MTMsIm5iZiI6MTc3NDM1MTMxMywicGF0aCI6Ii8yMTI2NjI3OTAvNTY4MzE4NDkwLWZmMDNmZWE3LTc5MDEtNDZkMS04NDk5LTY4MGVjOWZjODg2NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyNFQxMTIxNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MGMwMDcxNTAwMzM2NjY4MmI4ZTIxMTViYTEwZGY3MjlhNThlZjRiYjE0ZTFjMmNhNTMxN2E5NmQxMzAyMmVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.vsxGGuqZBYOuyQoGxRw9WyZlzpZwIdq93aPpleDmus4') center/cover;
       position: relative;
     }
     .foto-perfil {
