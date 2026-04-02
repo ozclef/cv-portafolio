@@ -49,3 +49,8 @@ python -m http.server 8080
 
 # abrir en el navegador:
 # http://localhost:8080
+
+```
+
+
+<img width="1197" height="1088" alt="image" src="https://github.com/user-attachments/assets/58032397-6059-4f76-8a0a-eb8fef167e4a" />
